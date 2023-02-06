@@ -644,7 +644,7 @@ footer a{
     }
     .trends .swiper {
         width: 100%;
-        padding: 50px;
+        padding: 0px;
       }
     
       .trends .swiper-slide {
@@ -664,9 +664,35 @@ footer a{
       }
       
       .btn-purchase a{
-    text-decoration: none;
-    color: #fff;
-}
-    
+        text-decoration: none;
+        color: #fff;
+        font-size: 1.3rem;
+    }
+    footer div{
+        flex-basis: 30%;
+    }
+    footer h1{
+        letter-spacing: 0.5rem;
+    }
+    footer h1 span{
+        color: var(--primary);
+        font-size: 1.5rem;
+    }
+    footer p{
+        font-size: 0.9rem;
+    }
+    footer a{
+        margin: 0px 1px;
+        color: #fff;
+        text-decoration: none;
+        
+    }
+    .sis h1{
+        font-size: 1.5rem;
+    }
+    .idm{
+        font-size: 25px;
+    }
+
       
 }
