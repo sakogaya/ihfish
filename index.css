@@ -668,8 +668,8 @@ footer a{
         color: #fff;
         font-size: 1.3rem;
     }
-    footer div{
-        flex-basis: 30%;
+     footer div{
+        flex-basis: 50%;
     }
     footer h1{
         letter-spacing: 0.5rem;
@@ -691,8 +691,11 @@ footer a{
         font-size: 1.5rem;
     }
     .idm{
-        font-size: 22px;
+        font-size: 25px;
     }
-
+    .port p{
+        font-size: 1rem;
+    }
+      
       
 }
