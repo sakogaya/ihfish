@@ -576,7 +576,7 @@ footer a{
     .home{
         
         width: 100%;
-        background:linear-gradient(to right,rgba(49, 148, 181, 0.431) 20%,rgba(255,255,255,0.2)), url(img/ddv.jpg) no-repeat;
+        background:linear-gradient(to right,rgba(49, 148, 181, 0.431) 20%,rgba(255,255,255,0.2)), url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.claytonseafoodmarket.com%2F&psig=AOvVaw2R-5GpA4R1K0g3x2Wtkvau&ust=1676823324853000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMi5jPe7n_0CFQAAAAAdAAAAABAX) no-repeat;
         background-attachment: fixed;
         margin-top: 30px;
     }
